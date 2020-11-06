@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>S.KAUSALYA</title>
+</head>
+<body>
+    <h1 style="text-align:center;">Kausalya.S</h1>
+    <hr>
+    <u><h2>Personal Details:</h2></u>
+    
+    <h3>DOB: 23 mar 2001</h3>
+    <a href="mailto:ngskausi@gmail.com"target=" "><p id="email">ngskausi@gmail.com</p></a>
+    <p id="contact">7395967464</p>
+
+    <u><h2>Acadamic Details:</h2></u>
+    <h3>School:-</h3>
+    <h4>10th : Kalashetra Matriculation Higher Secondary School</h4>
+    <h4>12th : Kalashetra Matriculation Higher Secondary School</h4>
+    <u><h2>Projects:</h2></u>
+    <h2>Assembling & connection of solar pannels:</h2>
+    <p><h4> Different volts solar pannels are arranged according to need output and connected to the supply</h4></p>
+    <u><h2>Experience:</h2></u>
+    <p><h4>Industrial visit to TANGENCO sriperumbudur, chennai</h4></p> 
+    <p><h4>Powertek Controls, Ambattur Industrial Estate, chennai</h4></p>
+    <u><h2>Teachnical Skills:</h2></u>
+    <p><h4>familier with c,c++,autocad,java,python.</h4></p>
+    <u><h2>Managerial skills:</h2></u>
+    <p><h4>Mentoring skills(guiding juinors in their projects and course work).</p>
+    <p>Good leadership skills.</p>
+    <p>Possess Strong Commitment To Team Environment.</h4></p><br><br><br>
+    <p><h4>I assure that the particulars furnished above are correct and true to the best of my knowledge.</h4></p>
+
+    
+    
+   
+</body>
+</html>

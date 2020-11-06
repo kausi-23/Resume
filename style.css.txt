@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+body{
+    margin: auto;
+    font-family: 'Lucida Sans', sans-serif;
+    text-align: left;
+    line-height: 1.6;
+    background-color:  #cfd9df;
+    color: #000;
+}
+
+
+
+h2{
+    font-size: 1.75rem;
+}
+
+h3{
+    font-size: 1.5rem;
+}
+
+@media(max-width: 500px){
+    body{
+        margin: auto;
+    }
+}
